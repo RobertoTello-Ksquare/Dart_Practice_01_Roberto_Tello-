@@ -1,7 +1,3 @@
-/*getCharPosition(“sundar”, “r”) // 6
-getCharPosition(“mongoose”, “o”) // 2
-getCharPosition(“mongoose”, “k”) // null
-*/
 class Practice16{
   getCharPosition(String str, String focus){
     var index = null;
