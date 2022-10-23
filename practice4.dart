@@ -1,4 +1,3 @@
-//isLeapYear(2000) // true
 class Practice4{
 isLeapYear(year){
   bool result=false;

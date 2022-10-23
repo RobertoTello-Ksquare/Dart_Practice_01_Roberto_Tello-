@@ -1,5 +1,3 @@
-//getCount(input: “flutter training”, char: “a”) // should return 1
-//getCount(input: “flutter training”, char: “t”) // should return 3
 class Practice9{
 num getCount({String input = '', String char = ''}){
   int count = 0;
